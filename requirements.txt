@@ -1,0 +1,4 @@
+python-binance
+Telethon~=1.23.0
+pytest
+pygame
